@@ -1,2 +1,0 @@
-# tanpa6ma
-App
